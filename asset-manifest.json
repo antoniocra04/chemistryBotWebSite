@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/chemistryBotWebSite/static/css/main.05b1ebd5.chunk.css",
-    "main.js": "/chemistryBotWebSite/static/js/main.2de2da2a.chunk.js",
-    "main.js.map": "/chemistryBotWebSite/static/js/main.2de2da2a.chunk.js.map",
+    "main.css": "/chemistryBotWebSite/static/css/main.be40c694.chunk.css",
+    "main.js": "/chemistryBotWebSite/static/js/main.bfcf4f3e.chunk.js",
+    "main.js.map": "/chemistryBotWebSite/static/js/main.bfcf4f3e.chunk.js.map",
     "runtime-main.js": "/chemistryBotWebSite/static/js/runtime-main.f6ede65f.js",
     "runtime-main.js.map": "/chemistryBotWebSite/static/js/runtime-main.f6ede65f.js.map",
-    "static/js/2.55ea5ed2.chunk.js": "/chemistryBotWebSite/static/js/2.55ea5ed2.chunk.js",
-    "static/js/2.55ea5ed2.chunk.js.map": "/chemistryBotWebSite/static/js/2.55ea5ed2.chunk.js.map",
+    "static/js/2.ae921e85.chunk.js": "/chemistryBotWebSite/static/js/2.ae921e85.chunk.js",
+    "static/js/2.ae921e85.chunk.js.map": "/chemistryBotWebSite/static/js/2.ae921e85.chunk.js.map",
     "index.html": "/chemistryBotWebSite/index.html",
-    "precache-manifest.62fb03d840cd00540ce7d7c6cfd5d807.js": "/chemistryBotWebSite/precache-manifest.62fb03d840cd00540ce7d7c6cfd5d807.js",
+    "precache-manifest.36f555df49ab26bf8825f017167fadb3.js": "/chemistryBotWebSite/precache-manifest.36f555df49ab26bf8825f017167fadb3.js",
     "service-worker.js": "/chemistryBotWebSite/service-worker.js",
-    "static/css/main.05b1ebd5.chunk.css.map": "/chemistryBotWebSite/static/css/main.05b1ebd5.chunk.css.map",
-    "static/js/2.55ea5ed2.chunk.js.LICENSE.txt": "/chemistryBotWebSite/static/js/2.55ea5ed2.chunk.js.LICENSE.txt",
+    "static/css/main.be40c694.chunk.css.map": "/chemistryBotWebSite/static/css/main.be40c694.chunk.css.map",
+    "static/js/2.ae921e85.chunk.js.LICENSE.txt": "/chemistryBotWebSite/static/js/2.ae921e85.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/chemistryBotWebSite/static/media/GothamPro-Reg.f02e0f6b.woff2",
     "static/media/arrow.svg": "/chemistryBotWebSite/static/media/arrow.2b1df315.svg",
     "static/media/calc.svg": "/chemistryBotWebSite/static/media/calc.da749189.svg",
@@ -26,8 +26,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f6ede65f.js",
-    "static/js/2.55ea5ed2.chunk.js",
-    "static/css/main.05b1ebd5.chunk.css",
-    "static/js/main.2de2da2a.chunk.js"
+    "static/js/2.ae921e85.chunk.js",
+    "static/css/main.be40c694.chunk.css",
+    "static/js/main.bfcf4f3e.chunk.js"
   ]
 }
