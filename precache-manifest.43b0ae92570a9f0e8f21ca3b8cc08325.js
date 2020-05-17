@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "892069984d3322913cb6efed68c94370",
+    "revision": "e2ee3f7857fd2f08b402bafde126d193",
     "url": "/chemistryBotWebSite/index.html"
   },
   {
-    "revision": "2e90b8f76eea1b2643a8",
-    "url": "/chemistryBotWebSite/static/css/main.be40c694.chunk.css"
+    "revision": "d02c0078a46ec9fbd072",
+    "url": "/chemistryBotWebSite/static/css/main.f3a7001b.chunk.css"
   },
   {
-    "revision": "24cfea316dbc9b30a85f",
-    "url": "/chemistryBotWebSite/static/js/2.ae921e85.chunk.js"
+    "revision": "6c2553fa270cca19e130",
+    "url": "/chemistryBotWebSite/static/js/2.9c77ca1c.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/chemistryBotWebSite/static/js/2.ae921e85.chunk.js.LICENSE.txt"
+    "url": "/chemistryBotWebSite/static/js/2.9c77ca1c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2e90b8f76eea1b2643a8",
-    "url": "/chemistryBotWebSite/static/js/main.bfcf4f3e.chunk.js"
+    "revision": "d02c0078a46ec9fbd072",
+    "url": "/chemistryBotWebSite/static/js/main.6da46d48.chunk.js"
   },
   {
     "revision": "ac87265428a42f545cdc",
@@ -48,16 +48,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/chemistryBotWebSite/static/media/arrow.2b1df315.svg"
   },
   {
+    "revision": "dba14ceb8300bcfcefe51049348ce521",
+    "url": "/chemistryBotWebSite/static/media/atom.dba14ceb.svg"
+  },
+  {
+    "revision": "a88338034ed472346b492af058a4de0f",
+    "url": "/chemistryBotWebSite/static/media/background.a8833803.svg"
+  },
+  {
     "revision": "da749189bed8ce119d1dd0f0ba9bfd56",
     "url": "/chemistryBotWebSite/static/media/calc.da749189.svg"
   },
   {
     "revision": "e737497a6beb95b00a13ab5c72290509",
     "url": "/chemistryBotWebSite/static/media/fx.e737497a.svg"
-  },
-  {
-    "revision": "0a0f456355599756a5443d56b74a8135",
-    "url": "/chemistryBotWebSite/static/media/illustration.0a0f4563.png"
   },
   {
     "revision": "8562ad58b73f3d7c9a7c78ee29a71a86",
