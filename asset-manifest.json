@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/chemistryBotWebSite/static/css/main.f3a7001b.chunk.css",
-    "main.js": "/chemistryBotWebSite/static/js/main.67658ba4.chunk.js",
-    "main.js.map": "/chemistryBotWebSite/static/js/main.67658ba4.chunk.js.map",
+    "main.js": "/chemistryBotWebSite/static/js/main.b62f2a92.chunk.js",
+    "main.js.map": "/chemistryBotWebSite/static/js/main.b62f2a92.chunk.js.map",
     "runtime-main.js": "/chemistryBotWebSite/static/js/runtime-main.f6ede65f.js",
     "runtime-main.js.map": "/chemistryBotWebSite/static/js/runtime-main.f6ede65f.js.map",
     "static/js/2.9c77ca1c.chunk.js": "/chemistryBotWebSite/static/js/2.9c77ca1c.chunk.js",
     "static/js/2.9c77ca1c.chunk.js.map": "/chemistryBotWebSite/static/js/2.9c77ca1c.chunk.js.map",
     "index.html": "/chemistryBotWebSite/index.html",
-    "precache-manifest.3a12c7bf04ec9d03f08e7c4ff5d5b8cd.js": "/chemistryBotWebSite/precache-manifest.3a12c7bf04ec9d03f08e7c4ff5d5b8cd.js",
+    "precache-manifest.e4d5fdefec86a41e24c819d845a6d640.js": "/chemistryBotWebSite/precache-manifest.e4d5fdefec86a41e24c819d845a6d640.js",
     "service-worker.js": "/chemistryBotWebSite/service-worker.js",
     "static/css/main.f3a7001b.chunk.css.map": "/chemistryBotWebSite/static/css/main.f3a7001b.chunk.css.map",
     "static/js/2.9c77ca1c.chunk.js.LICENSE.txt": "/chemistryBotWebSite/static/js/2.9c77ca1c.chunk.js.LICENSE.txt",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.f6ede65f.js",
     "static/js/2.9c77ca1c.chunk.js",
     "static/css/main.f3a7001b.chunk.css",
-    "static/js/main.67658ba4.chunk.js"
+    "static/js/main.b62f2a92.chunk.js"
   ]
 }
