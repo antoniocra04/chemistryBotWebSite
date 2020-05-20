@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "53fae2217822b6a55a3bdc06f8459957",
+    "revision": "673172348db1c7becbd9418c578440f5",
     "url": "/chemistryBotWebSite/index.html"
   },
   {
-    "revision": "419645988d6a566e718c",
-    "url": "/chemistryBotWebSite/static/css/main.dd96fc23.chunk.css"
+    "revision": "f256ad72f6e9dc6ebbfc",
+    "url": "/chemistryBotWebSite/static/css/main.13f4ce54.chunk.css"
   },
   {
     "revision": "ee899f9f094a6d6be1d6",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/chemistryBotWebSite/static/js/2.334e24db.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "419645988d6a566e718c",
+    "revision": "f256ad72f6e9dc6ebbfc",
     "url": "/chemistryBotWebSite/static/js/main.fe0e6904.chunk.js"
   },
   {
