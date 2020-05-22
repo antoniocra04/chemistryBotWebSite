@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/chemistryBotWebSite/static/css/main.13f4ce54.chunk.css",
-    "main.js": "/chemistryBotWebSite/static/js/main.fe0e6904.chunk.js",
-    "main.js.map": "/chemistryBotWebSite/static/js/main.fe0e6904.chunk.js.map",
+    "main.css": "/chemistryBotWebSite/static/css/main.9d480d8b.chunk.css",
+    "main.js": "/chemistryBotWebSite/static/js/main.01bdd173.chunk.js",
+    "main.js.map": "/chemistryBotWebSite/static/js/main.01bdd173.chunk.js.map",
     "runtime-main.js": "/chemistryBotWebSite/static/js/runtime-main.f6ede65f.js",
     "runtime-main.js.map": "/chemistryBotWebSite/static/js/runtime-main.f6ede65f.js.map",
     "static/js/2.334e24db.chunk.js": "/chemistryBotWebSite/static/js/2.334e24db.chunk.js",
     "static/js/2.334e24db.chunk.js.map": "/chemistryBotWebSite/static/js/2.334e24db.chunk.js.map",
     "index.html": "/chemistryBotWebSite/index.html",
-    "precache-manifest.32a487ab11206404c9cf95a2749c0bc8.js": "/chemistryBotWebSite/precache-manifest.32a487ab11206404c9cf95a2749c0bc8.js",
+    "precache-manifest.e867a6bdfff156d32f1fe87818b56499.js": "/chemistryBotWebSite/precache-manifest.e867a6bdfff156d32f1fe87818b56499.js",
     "service-worker.js": "/chemistryBotWebSite/service-worker.js",
-    "static/css/main.13f4ce54.chunk.css.map": "/chemistryBotWebSite/static/css/main.13f4ce54.chunk.css.map",
+    "static/css/main.9d480d8b.chunk.css.map": "/chemistryBotWebSite/static/css/main.9d480d8b.chunk.css.map",
     "static/js/2.334e24db.chunk.js.LICENSE.txt": "/chemistryBotWebSite/static/js/2.334e24db.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/chemistryBotWebSite/static/media/GothamPro-Reg.f02e0f6b.woff2",
     "static/media/arrow.svg": "/chemistryBotWebSite/static/media/arrow.2b1df315.svg",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.f6ede65f.js",
     "static/js/2.334e24db.chunk.js",
-    "static/css/main.13f4ce54.chunk.css",
-    "static/js/main.fe0e6904.chunk.js"
+    "static/css/main.9d480d8b.chunk.css",
+    "static/js/main.01bdd173.chunk.js"
   ]
 }
