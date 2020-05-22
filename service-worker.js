@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/chemistryBotWebSite/precache-manifest.d66139c6f5cf51cc03b96c3895831449.js"
+  "/chemistryBotWebSite/precache-manifest.9f5c69a6618cde30a4ebbeeb4b06bb2d.js"
 );
 
 self.addEventListener('message', (event) => {
